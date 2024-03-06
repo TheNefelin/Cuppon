@@ -2,7 +2,7 @@
 
 ### Equipo 4:
 
-[Luis Montero]()
+[Luis Montero](https://github.com/LujoMontero)
 
 [Franco Ortiz](https://github.com/Francortiz-137)
 
