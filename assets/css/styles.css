@@ -1,3 +1,4 @@
+/* color palette */
 
 :root {
   --negro: #212529;
@@ -11,6 +12,8 @@ body {
   font-size: 16px;
 }
 
+/* fonts */
+
 .roboto-light {
   font-family: "Roboto", sans-serif;
   font-weight: 300;
@@ -23,14 +26,74 @@ body {
   font-style: normal;
 }
 
+/* navbar */
+
 .navbar {
   background-color: var(--verde);
 }
 
 .navbar img {
- height: 1.5rem;
+  height: 1.5rem;
 }
 
 hr {
   width: 90%;
+  margin: 0;
+}
+
+/* card */
+
+.card-description {
+  font-size: 1.25rem;
+}
+
+.card-place {
+  color: var(--gris);
+  margin: 0;
+}
+
+.card-address {
+  font-size: 0.8rem;
+  color: var(--gris);
+  margin: 0;
+}
+
+.card-price {
+  color: var(--verde);
+  font-size: 1.25rem;
+}
+
+/* form */
+
+form {
+  color: var(--blanco);
+  background-color: var(--verde);
+}
+
+form button {
+  min-width: 7rem;
+}
+
+.form-control::placeholder {
+  color: var(--gris);
+  opacity: 1;
+}
+
+.form-control:-ms-input-placeholder { 
+  color: var(--gris);
+}
+
+/* footer */
+
+footer {
+  color: var(--gris);
+}
+
+footer img {
+  height: 1.5rem;
+  margin: auto;
+}
+
+footer p {
+  max-width: 15rem;
 }

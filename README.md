@@ -1,4 +1,4 @@
-# COUPPON
+# CUPPON
 
 ### Equipo 4:
 
