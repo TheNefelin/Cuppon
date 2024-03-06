@@ -1,0 +1,36 @@
+
+:root {
+  --negro: #212529;
+  --gris: #707070;
+  --light: #F8F9FA; 
+  --blanco: #fff;
+  --verde: #28a745;
+}
+
+body {
+  font-size: 16px;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.navbar {
+  background-color: var(--verde);
+}
+
+.navbar img {
+ height: 1.5rem;
+}
+
+hr {
+  width: 90%;
+}
