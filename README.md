@@ -3,9 +3,13 @@
 ### Equipo 4:
 
 [Luis Montero]()
+
 [Franco Ortiz](https://github.com/Francortiz-137)
+
 [Rene Moreno](https://github.com/ReneMoreno1193)
+
 [Tiare Linco](https://github.com/Tatanaiko)
+
 [Francisco Carmona](https://github.com/TheNefelin)
 
 ### comandos git
